@@ -6,7 +6,7 @@ Part 1
 import datetime
 
 """
-Whatever the datastructure you choose,idle
+Whatever the datastructure you choose,
 it should represent the following data:
 
 player		| date		| score
